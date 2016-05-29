@@ -1,0 +1,10 @@
+.DS_Store
+proj/randostata
+*.aux
+*.out
+*.gz
+*.log
+*.toc
+*.snm
+*.nav
+*.blg

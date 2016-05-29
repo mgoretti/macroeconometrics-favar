@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{sims1980macroeconomics}
+Christopher~A Sims.
+\newblock Macroeconomics and reality.
+\newblock {\em Econometrica: Journal of the Econometric Society}, pages 1--48,
+  1980.
+
+\bibitem{hamilton2011historical}
+James~D Hamilton.
+\newblock Historical oil shocks.
+\newblock Technical report, National Bureau of Economic Research, 2011.
+
+\bibitem{hamilton2003oil}
+James~D Hamilton.
+\newblock What is an oil shock?
+\newblock {\em Journal of econometrics}, 113(2):363--398, 2003.
+
+\bibitem{hamilton1983oil}
+James~D Hamilton.
+\newblock Oil and the macroeconomy since world war ii.
+\newblock {\em The Journal of Political Economy}, pages 228--248, 1983.
+
+\bibitem{kilian2009not}
+Lutz Kilian.
+\newblock Not all oil price shocks are alike: Disentangling demand and supply
+  shocks in the crude oil market.
+\newblock {\em The American Economic Review}, 99(3):1053--1069, 2009.
+
+\bibitem{jolliffe2002principal}
+Ian Jolliffe.
+\newblock {\em Principal component analysis}.
+\newblock Wiley Online Library, 2002.
+
+\bibitem{bernanke2005factor}
+B~Bernanke, J~Boivin, and P~Eliasz.
+\newblock Factor augmented vector autoregressions (fvars) and the analysis of
+  monetary policy.
+\newblock {\em Quarterly Journal of Economics}, 120(1):387--422, 2005.
+
+\bibitem{aastveit2015drives}
+Knut~Are Aastveit, Hilde~C Bj{\o}rnland, and Leif~Anders Thorsrud.
+\newblock What drives oil prices? emerging versus developed economies.
+\newblock {\em Journal of Applied Econometrics}, 30(7):1013--1028, 2015.
+
+\bibitem{aastveit2014oil}
+Knut~Are Aastveit.
+\newblock Oil price shocks in a data-rich environment.
+\newblock {\em Energy Economics}, 45:268--279, 2014.
+
+\bibitem{gali2010international}
+Jordi Gal{\'\i} and Mark Gertler.
+\newblock {\em International dimensions of monetary policy}.
+\newblock University of Chicago Press, 2010.
+
+\bibitem{stock2015factor}
+James~H Stock and Mark~W Watson.
+\newblock Factor models and structural vector autoregressions in
+  macroeconomics.
+\newblock {\em Handbook of macroeconomics}, 2, 2015.
+
+\end{thebibliography}

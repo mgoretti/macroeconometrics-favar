@@ -1,0 +1,197 @@
+% !TEX encoding = UTF-8 Unicode
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Stylish Article
+% LaTeX Template
+% Version 2.1 (1/10/15)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Mathias Legrand (legrand.mathias@gmail.com) 
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[fleqn,11pt]{SelfArx} % Document font size and equations flushed left
+
+%\usepackage[english]{babel} % Specify a different language here - english by default
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+
+
+%----------------------------------------------------------------------------------------
+%	COLUMNS
+%----------------------------------------------------------------------------------------
+
+\setlength{\columnsep}{0.55cm} % Distance between the two columns of text
+\setlength{\fboxrule}{0.75pt} % Width of the border around the abstract
+
+%----------------------------------------------------------------------------------------
+%	COLORS
+%----------------------------------------------------------------------------------------
+
+\definecolor{color1}{RGB}{0,0,90} % Color of the article title and sections
+\definecolor{color2}{RGB}{0,20,20} % Color of the boxes behind the abstract and headings
+
+%----------------------------------------------------------------------------------------
+%	HYPERLINKS
+%----------------------------------------------------------------------------------------
+
+\usepackage{hyperref} % Required for hyperlinks
+\hypersetup{hidelinks,colorlinks,breaklinks=true,urlcolor=color2,citecolor=color1,linkcolor=color1,bookmarksopen=false,pdftitle={Title},pdfauthor={Author}}
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE INFORMATION
+%----------------------------------------------------------------------------------------
+
+\JournalInfo{Journal, Vol. XXI, No. 1, 1-5, 2013} % Journal information
+\Archive{Additional note} % Additional notes (e.g. copyright, DOI, review/research article)
+
+\PaperTitle{Favar ! Favar on the Data ! Tell me which VAR is the best,  said the evil macroeconomist} % Article title
+
+\Authors{Marco Goretti \textsuperscript{1}*, Frédéric Martenet\textsuperscript{2}*, Simon Tièche\textsuperscript{3}*} % Authors
+\affiliation{\textsuperscript{1}\textit{Faculty of Business and Economics, University of Lausanne, Lausanne, Switzerland}} % Author affiliation
+\affiliation{\textsuperscript{2}\textit{Faculty of Business and Economics, University of Lausanne, Lausanne, Switzerland}} % Author affiliation
+\affiliation{\textsuperscript{3}\textit{Faculty of Business and Economics, University of Lausanne, Lausanne, Switzerland}} % Author affiliation
+\affiliation{} % Corresponding author *\textbf{Corresponding author}: john@smith.com
+
+\Keywords{FAVAR --- SVAR --- PCA} % Keywords - if you don't want any simply remove all the text between the curly brackets
+\newcommand{\keywordname}{Keywords} % Defines the keywords heading name
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\Abstract{AN abstract}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\flushbottom % Makes all text pages the same height
+
+\maketitle % Print the title and abstract box
+
+\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+\section*{Introduction} % The \section*{} command stops section numbering
+
+\addcontentsline{toc}{section}{Introduction} % Adds this section to the table of contents
+
+TEXT
+
+%------------------------------------------------
+
+%------------------------------------------------
+\section{Motivation}
+%------------------------------------------------
+
+TEXT
+
+%------------------------------------------------
+\section{Data}
+%------------------------------------------------
+
+TEXT
+
+%------------------------------------------------
+\section{Methods}
+%------------------------------------------------
+
+TEXT
+
+
+%------------------------------------------------
+\subsection{Factors}
+%------------------------------------------------
+
+TEXT
+
+%------------------------------------------------
+\subsection{Principal Component Analysis}
+%------------------------------------------------
+
+TEXT
+
+\begin{description}
+\item[Word] Definition
+\item[Concept] Explanation
+\item[Idea] Text
+\end{description}
+
+\paragraph{Paragraph} TEXT 
+\paragraph{Paragraph} TEXT
+
+
+
+
+
+
+
+%------------------------------------------------
+\section{Results and Discussion}
+%------------------------------------------------
+
+TEXT
+
+%------------------------------------------------
+\section{Conclusion}
+%------------------------------------------------
+
+TEXT
+
+%------------------------------------------------
+\section{Critique}
+%------------------------------------------------
+
+TEXT
+
+
+
+\newpage
+
+TEXT 
+
+
+\newpage
+
+TEXT
+
+%------------------------------------------------
+\phantomsection
+\section*{Acknowledgments} % The \section*{} command stops section numbering
+
+\addcontentsline{toc}{section}{Acknowledgments} % Adds this section to the table of contents
+
+So long and thanks for all the fish %\cite{Figueredo:2009dg}.
+
+%----------------------------------------------------------------------------------------
+%	REFERENCE LIST
+%----------------------------------------------------------------------------------------
+\phantomsection
+\nocite{*}
+\bibliographystyle{unsrt}
+\bibliography{BibMacroeconometrics}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

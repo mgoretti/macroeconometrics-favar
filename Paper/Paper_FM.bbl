@@ -1,0 +1,78 @@
+\begin{thebibliography}{}
+
+\bibitem[Aastveit, 2014]{aastveit2014oil}
+Aastveit, K.~A. (2014).
+\newblock Oil price shocks in a data-rich environment.
+\newblock {\em Energy Economics}, 45:268--279.
+
+\bibitem[Aastveit et~al., 2015]{aastveit2015drives}
+Aastveit, K.~A., Bj{\o}rnland, H.~C., and Thorsrud, L.~A. (2015).
+\newblock What drives oil prices? emerging versus developed economies.
+\newblock {\em Journal of Applied Econometrics}, 30(7):1013--1028.
+
+\bibitem[Bergmeir et~al., 2015]{bergmeir}
+Bergmeir, C., Hyndman, R.~J., and Koo, B. (2015).
+\newblock A note on the validity of cross-validation for evaluating time series
+  prediction.
+\newblock {\em Working Paper}.
+
+\bibitem[Bernanke et~al., 2005]{bernanke2005factor}
+Bernanke, B., Boivin, J., and Eliasz, P. (2005).
+\newblock Factor augmented vector autoregressions (fvars) and the analysis of
+  monetary policy.
+\newblock {\em Quarterly Journal of Economics}, 120(1):387--422.
+
+\bibitem[Christiano et~al., 1999]{christiano1999monetary}
+Christiano, L.~J., Eichenbaum, M., and Evans, C.~L. (1999).
+\newblock Monetary policy shocks: What have we learned and to what end?
+\newblock {\em Handbook of macroeconomics}, 1:65--148.
+
+\bibitem[Gal{\'\i} and Gertler, 2010]{gali2010international}
+Gal{\'\i}, J. and Gertler, M. (2010).
+\newblock {\em International dimensions of monetary policy}.
+\newblock University of Chicago Press.
+
+\bibitem[Hamilton, 1983]{hamilton1983oil}
+Hamilton, J.~D. (1983).
+\newblock Oil and the macroeconomy since world war ii.
+\newblock {\em The Journal of Political Economy}, pages 228--248.
+
+\bibitem[Hamilton, 2003]{hamilton2003oil}
+Hamilton, J.~D. (2003).
+\newblock What is an oil shock?
+\newblock {\em Journal of econometrics}, 113(2):363--398.
+
+\bibitem[Hamilton, 2011]{hamilton2011historical}
+Hamilton, J.~D. (2011).
+\newblock Historical oil shocks.
+\newblock Technical report, National Bureau of Economic Research.
+
+\bibitem[Jolliffe, 2002]{jolliffe2002principal}
+Jolliffe, I. (2002).
+\newblock {\em Principal component analysis}.
+\newblock Wiley Online Library.
+
+\bibitem[Kilian, 2009]{kilian2009not}
+Kilian, L. (2009).
+\newblock Not all oil price shocks are alike: Disentangling demand and supply
+  shocks in the crude oil market.
+\newblock {\em The American Economic Review}, 99(3):1053--1069.
+
+\bibitem[Onatski, 2010]{onatski2010determining}
+Onatski, A. (2010).
+\newblock Determining the number of factors from empirical distribution of
+  eigenvalues.
+\newblock {\em The Review of Economics and Statistics}, 92(4):1004--1016.
+
+\bibitem[Sims, 1980]{sims1980macroeconomics}
+Sims, C.~A. (1980).
+\newblock Macroeconomics and reality.
+\newblock {\em Econometrica: Journal of the Econometric Society}, pages 1--48.
+
+\bibitem[Stock and Watson, 2015]{stock2015factor}
+Stock, J.~H. and Watson, M.~W. (2015).
+\newblock Factor models and structural vector autoregressions in
+  macroeconomics.
+\newblock {\em Handbook of macroeconomics}, 2.
+
+\end{thebibliography}
